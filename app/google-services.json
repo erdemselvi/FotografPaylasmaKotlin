@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933662080526",
+    "project_id": "fotografpaylasma-309d4",
+    "storage_bucket": "fotografpaylasma-309d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933662080526:android:03c9f802919a5a4b42865f",
+        "android_client_info": {
+          "package_name": "com.erdemselvi.fotografpaylasmakotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933662080526-0srvj5hu89kb32sd3heuc4rsl3dncfve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9sMAcjsRPgyRcmywHsXleCdg0piDAqn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933662080526-0srvj5hu89kb32sd3heuc4rsl3dncfve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
